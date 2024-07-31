@@ -1,0 +1,6 @@
+namespace: openshift-lightspeed
+
+resources:
+  - lightspeed-operator-namespace.yml
+  - lightspeed-operator-operator-group.yml
+  - lightspeed-operator-subscription.yml
