@@ -1,0 +1,6 @@
+namespace: openshift-nmstate
+
+resources:
+  - kubernetes-nmstate-operator-namespace.yml
+  - kubernetes-nmstate-operator-operator-group.yml
+  - kubernetes-nmstate-operator-subscription.yml
