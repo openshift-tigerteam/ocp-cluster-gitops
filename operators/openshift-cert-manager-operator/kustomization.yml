@@ -1,0 +1,6 @@
+namespace: cert-manager-operator
+
+resources:
+  - openshift-cert-manager-operator-namespace.yml
+  - openshift-cert-manager-operator-operator-group.yml
+  - openshift-cert-manager-operator-subscription.yml
