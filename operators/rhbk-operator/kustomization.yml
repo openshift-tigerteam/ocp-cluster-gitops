@@ -1,0 +1,6 @@
+namespace: keycloak
+
+resources:
+  - rhbk-operator-namespace.yml
+  - rhbk-operator-operator-group.yml
+  - rhbk-operator-subscription.yml
